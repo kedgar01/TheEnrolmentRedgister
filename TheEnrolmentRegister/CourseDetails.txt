@@ -1,0 +1,5 @@
+Lecturer is: Alan Thyme
+Course is: Computer Science
+Total number of students enrolled is: 20.0
+Percentage of males is: 75.0
+Percentage of females is: 25.0
